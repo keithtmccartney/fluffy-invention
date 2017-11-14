@@ -303,7 +303,8 @@
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\sammy-0.7.4.js" />
     <Content Include="Scripts\sammy-0.7.4.min.js" />
-    <Content Include="SQL\CreateDatabaseAndStoredProcedures.Query.sql" />
+    <Content Include="SQL\CreateDatabase.Query.sql" />
+    <Content Include="SQL\CreateStoredProcedures.Query.sql" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Account\ConfirmEmail.cshtml" />
     <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
